@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/whatsapp-greenapi-react/static/css/main.4f338d89.css",
-    "main.js": "/whatsapp-greenapi-react/static/js/main.f0663877.js",
+    "main.js": "/whatsapp-greenapi-react/static/js/main.2b219f28.js",
     "static/media/arrow.svg": "/whatsapp-greenapi-react/static/media/arrow.3db2ab099493d820f1c9.svg",
     "index.html": "/whatsapp-greenapi-react/index.html",
     "main.4f338d89.css.map": "/whatsapp-greenapi-react/static/css/main.4f338d89.css.map",
-    "main.f0663877.js.map": "/whatsapp-greenapi-react/static/js/main.f0663877.js.map"
+    "main.2b219f28.js.map": "/whatsapp-greenapi-react/static/js/main.2b219f28.js.map"
   },
   "entrypoints": [
     "static/css/main.4f338d89.css",
-    "static/js/main.f0663877.js"
+    "static/js/main.2b219f28.js"
   ]
 }
